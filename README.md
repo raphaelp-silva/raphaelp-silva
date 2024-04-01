@@ -7,9 +7,11 @@
 - ✉️ Contate-me através de alguma rede social abaixo! até logo! 
 
 ##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelp-silva&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelp-silva&layout=compact&theme=tokyonight)
+<div>
+<a = href="https://github.com/raphaelp-silva"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelp-silva&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelp-silva&layout=compact&theme=tokyonight"/>
+</div>
 
 ##
 <div>
