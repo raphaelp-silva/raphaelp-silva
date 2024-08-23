@@ -1,7 +1,7 @@
 ### Olá, sou o Raphael Paulo 👋
 
-- 👨‍💻 Atualmente trabalho na área comercial 
-- 👨‍🎓 Sou estudante do curso de ciências da computação e também estudo Python
+- 👨‍💻 Atualmente estudando SQL e Python
+- 👨‍🎓 Sou estudante do curso de ciências da computação
 - 📚 Buscando migração de carreira para área de tecnologia
 - 🤓 Buscando oportunidade em algum projeto para colaborar e ganhar experiência
 - ✉️ Contate-me através de alguma rede social abaixo! até logo! 
