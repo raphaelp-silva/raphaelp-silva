@@ -1,6 +1,6 @@
 ### Olá, sou o Raphael Paulo 👋
 
-- 👨‍💻 Atualmente estudando SQL e Python
+- 👨‍💻 Atualmente estudando Machine Learning e redes neurais com Python
 - 👨‍🎓 Sou estudante do curso de ciências da computação
 - 📚 Buscando migração de carreira para área de tecnologia
 - 🤓 Buscando oportunidade em algum projeto para colaborar e ganhar experiência
